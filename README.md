@@ -38,7 +38,7 @@ You will also need to create a .env file in the server directory and set the fol
 
 ## Screenshots
 
-![](./client/src/assets/recsearch1.JPG)
+![](./client/src/assets/Picture1.png)
 
 
 ## Contributors
