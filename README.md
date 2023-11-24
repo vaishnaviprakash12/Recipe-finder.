@@ -1,6 +1,6 @@
 # Recipe Finder
 
-[RecipeFinder]()
+
 
 ## Overview
 
